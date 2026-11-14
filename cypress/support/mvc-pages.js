@@ -42,6 +42,7 @@ export const MVC_PAGES = {
         "/admin/system/debug",
         "/admin/system/upgrade",
         "/admin/system/church-info",
+        "/admin/property-types/new",
     ],
 };
 
